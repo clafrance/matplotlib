@@ -1,4 +1,4 @@
-## Pyber Ride Sharing Asnlysis
+## Pyber Ride Sharing Asnlysis using pandas and matplotlib
 
 ### A bubble chart that shows the relationship between the following variables
 * Average Fare per City
