@@ -12,6 +12,9 @@
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
 
+![Analysis by City](/Pyber/analysis/fares.png)
+![Analysis by City](/Pyber/analysis/rides.png)
+![Analysis by City](/Pyber/analysis/drivers.png)
 
 ### Analysis Symmary
 
