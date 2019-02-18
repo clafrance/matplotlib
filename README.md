@@ -5,6 +5,8 @@
 * Total Number of Rides per City
 * Total Number of Driver per City
 
+![Analysis by City](/Pyber/analysis/pyber.png)
+
 ### Pie charts that shows the relationship between the following variables
 * % of Total Fares by City Type
 * % of Total Rides by City Type
