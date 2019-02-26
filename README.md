@@ -1,4 +1,4 @@
-## Pyber Ride Sharing Analysis written in Python using pandas and matplotlib
+## Ride Sharing Analysis written in Python using pandas and matplotlib
 
 ### Features:
 ### A bubble chart that shows the relationship between:
